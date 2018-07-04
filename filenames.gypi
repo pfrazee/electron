@@ -86,6 +86,9 @@
       'lib/renderer/extensions/storage.js',
       'lib/renderer/extensions/web-navigation.js',
       'lib/worker/init.js',
+      'lib/worker/api/exports/electron.js',
+      'lib/worker/api/module-list.js',
+      'lib/worker/api/ipc-renderer.js'
     ],
     'js2c_sources': [
       'lib/common/asar.js',
